@@ -1,4 +1,9 @@
 {
+  "Number": {
+    "views": {
+      "int": { "min": 0, "max": 9000 }
+    }
+  },
   "Post": {
     "title": {
       "string": {}
