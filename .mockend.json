@@ -13,13 +13,6 @@
   "Decision": {
     "decision": {
       "int": { "min": 1, "max": 4 }
-    },
-    "text": {
-      "string": [
-        "rock",
-        "paper",
-        "scissors"
-      ]
     }
   },
   "Post": {
