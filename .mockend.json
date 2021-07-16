@@ -1,4 +1,15 @@
 {
+  "Computer": {
+    "usable": {
+      "boolean": {}
+    },
+    "name": {
+      "string": {}
+    },
+    "decisionId": {
+      "int": { "min": 0, "max": 101 }
+    }
+  },
   "Decision": {
     "decision": {
       "int": { "min": 1, "max": 4 }
