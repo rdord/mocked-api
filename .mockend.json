@@ -1,12 +1,4 @@
 {
-  "Randomtext": {
-    "text": {
-      "string": []
-    },
-    "usable": {
-      "boolean": {}
-    },
-  },
   "Post": {
     "title": {
       "string": {}
